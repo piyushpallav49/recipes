@@ -1,0 +1,10 @@
+Ingredients:
+ - 2 eggs
+ - cooking oil
+
+ Directions:
+ 1. Add cooking oil to the pan.
+ 2. Wait for it to heat up.
+ 3. Crack, pour and spread the egg on pan.
+ 4. Wait till the egg looses its liquidity.
+ 
